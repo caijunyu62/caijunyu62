@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @caijunyu62
+- 👀 I’m interested in full-stack developer proficient in Django and Python. 
+- 🌱 I’m currently learning Keen on creating robust, user-friendly web applications.
